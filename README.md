@@ -8,6 +8,8 @@ I enjoy using programming, mathematics, and machine learning to solve real-world
 
 I am particularly interested in medical imaging, computational neuroscience, and Python-based solutions for machine learning, backend development, and automation.
 
+I currently work on backend development, data automation, and AI-driven workflows using Python.
+
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
