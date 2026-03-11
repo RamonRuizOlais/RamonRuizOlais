@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ramón
 
 Physics graduate from UAS and M.Sc. in Computing and Industrial Mathematics from CIMAT.  
-Interested in Python, Data Science, Machine Learning, Backend Development, Medical Imaging, and Computational Neuroscience.
+Interested in Data Science, Machine Learning, Medical Imaging, and Computational Neuroscience.
 
 ## 🧠 About Me
 I enjoy using programming, mathematics, and machine learning to solve real-world problems. My academic background in physics and computing has shaped my interest in scientific computing, data analysis, and research-driven development.
